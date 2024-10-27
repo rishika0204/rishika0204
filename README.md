@@ -1,7 +1,78 @@
 # 💫 About Me:
 🔭 I’m currently working on ML-based intoxication detection, Pothole detection and depth estimation using CV techniques.<br>👯 I’m looking to collaborate on Machine Learning projects.<br>🌱 I’m currently learning Node.js.
 
-# My projects:
+# Project Portfolio
+
+Welcome to my GitHub project repository! Here, you'll find a collection of my data science, machine learning, and software development projects. Each project includes detailed implementation, relevant algorithms, and performance evaluation metrics.
+
+## Projects
+
+### 1. Real-Time Adaptive Anomaly Detection System
+
+An adaptive anomaly detection system utilizing **Isolation Forest** for real-time monitoring in dynamic environments.
+
+- **Features**: Real-time anomaly detection, adaptive thresholding with **EMA**, sliding window processing, and real-time performance metrics visualization.
+- **Performance**: Achieved 92% accuracy with an 8% false positive rate, with real-time updates on precision, recall, F1-score, and accuracy.
+- **Technology**: Python, Isolation Forest, Matplotlib, NumPy, Scikit-learn.
+
+Run with:
+```bash
+python anomaly_detection.py
+```
+
+### 2. Credit Card Fraud Detection
+
+Detects fraudulent transactions using **Decision Tree**, **K-Means Clustering**, and **K-Nearest Neighbors (KNN)** algorithms.
+
+- **Dataset**: Contains 284,807 transactions with 492 fraudulent cases (0.17% of total).
+- **Results**: Decision Tree classifier achieved 99.93% accuracy, outperforming K-Means and KNN models.
+- **Technology**: Python, Pandas, Scikit-learn, Matplotlib.
+
+### 3. MusePred Song Recommender Chatbot
+
+A song recommendation chatbot that suggests songs based on user-provided lyrics, mood, and emotional context.
+
+- **Features**: Lyric-based and emotion-sensitive song recommendations, genre matching, and conversational interface.
+- **Technology**: Python, NLTK, TensorFlow, PyTorch, IBM Tone Analyzer API, Last.fm API.
+
+### 4. Multivariate Time-Series Analysis
+
+A comprehensive project implementing machine learning algorithms for regression, classification, and clustering on a **weather dataset**.
+
+- **Algorithms**: Linear Regression, Random Forests, Naive Bayes, KNN, SVM, Decision Trees, K-Means, EM Clustering.
+- **Results**: Decision Trees achieved the highest accuracy (99.93%) for classification tasks.
+- **Technology**: Python, Scikit-learn, Matplotlib, Kaggle Weather Dataset.
+
+### 5. Note-Taking CLI Application
+
+A command-line interface (CLI) application for managing notes. Built with **yargs**, **validator**, and **chalk** for easy note organization.
+
+- **Features**: Add, remove, list, and read notes via command-line commands.
+- **Technology**: Node.js, yargs, fs module.
+
+### 6. Spotify Song Recommender
+
+A web application that recommends three songs based on a given song title and artist name.
+
+- **Frontend**: HTML, CSS, JavaScript.
+- **Backend**: Node.js, Express, Spotify API.
+
+### 7. Federated Learning for Image Classification
+
+A federated learning model for image classification using a pre-trained **ResNet152V2** model, demonstrating how to split data across multiple clients and train collaboratively.
+
+- **Features**: Data preparation, federated training, and model evaluation with client-based data partitioning.
+- **Technology**: Python, TensorFlow, Keras, ResNet152V2.
+
+---
+
+## Getting Started
+
+Each project includes detailed instructions in its respective directory for setting up the environment, running the code, and understanding the implementation. Dependencies and installation commands are provided for ease of use. 
+
+---
+
+Feel free to explore, clone, and experiment with the projects! For any questions or contributions, please reach out or submit a pull request.
 
 
 ## 🌐 Socials:
