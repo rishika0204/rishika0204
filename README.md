@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on ML-based intoxication detection, Pothole detection and depth estimation using CV techniques.<br>👯 I’m looking to collaborate on Machine Learning projects.<br>🌱 I’m currently learning Node.js.
 
+# My projects:
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishika-kalra-6b901622b/) 
