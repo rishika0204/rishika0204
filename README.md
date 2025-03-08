@@ -64,6 +64,13 @@ A federated learning model for image classification using a pre-trained **ResNet
 - **Features**: Data preparation, federated training, and model evaluation with client-based data partitioning.
 - **Technology**: Python, TensorFlow, Keras, ResNet152V2.
 
+### 8. Hotel Management System with IPC
+
+A C-based hotel management system utilizing **System V IPC** to manage multiple hotel operations such as table management, order handling, and profit calculation in real-time.
+
+- **Features**: Real-time table and order management, earnings and profit calculation, hotel shutdown process using shared memory and semaphores.
+- **Technology**: C, System V IPC (Shared Memory, Semaphores, Pipes).
+
 ---
 
 ## Getting Started
